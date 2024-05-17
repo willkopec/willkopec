@@ -7,6 +7,7 @@ I'm WillKopec, I am a passionate Software Engineer
 - Tools & Technologies: Android Studio, Eclipse, Intellij Idea, VS Code, Anaconda
   
 ##### 👯 I’m looking to collaborate on any open-source projects.
+![](https://komarev.com/ghpvc/?username=willkopec)
 <!--
 **willkopec/willkopec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
