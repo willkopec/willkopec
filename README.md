@@ -1,5 +1,6 @@
 #### Hi there! 👋
-I'm WillKopec, I am a passionate Software Engineer
+I'm WillKopec, I am a passionate Software Engineer! I am interested in all things Investing, Fitness/Health, and Tech. 
+I am currently working on a Crypto Mobile Application which uses pure data and technical analysis to make informed decisions on investing in Bitcoin and Crypto. Investing in Crypto can be hard but it doesn't have to be when you use data to see where we are in the Bitcoin/Crypto price cycle. Check out the app here: https://github.com/willkopec/Whalert
 
 ##### 🔧 Technologies & Tools
 - Programming Languages: Kotlin, Java, Python, SQL, HTML/CSS, JavaScript, C++, BASH, C, Scala
