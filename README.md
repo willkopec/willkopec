@@ -32,7 +32,7 @@ Android Studio · IntelliJ IDEA · VS Code · GitHub · Anaconda
 ### 🤝 Let’s Collaborate
 I’m open to collaborating on **open-source** or **startup-focused** projects — especially in the **FinTech**, **Data**, or **Android** space.  
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/willkopec) | [Portfolio](https://yourwebsite.com)  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/willkopec)
 
 ---
 
