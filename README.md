@@ -8,7 +8,7 @@ I'm passionate about **Investing**, **Fitness/Health**, and **Technology** — a
 
 ### 💼 Products I've Launched
 - 🧠 [**ChartingLens**](https://chartinglens.com) *(Latest)* — Advanced charting and analytics for smarter investing
-- 💰 [**CryptoView**](https://cryptoview.com](https://play.google.com/store/apps/details?id=com.willkopec.whalert&hl=en_US)) — Simplified cryptocurrency portfolio tracking Mobile Application for Android
+- 💰 [**CryptoView**](https://play.google.com/store/apps/details?id=com.willkopec.whalert&hl=en_US) — Simplified cryptocurrency portfolio tracking Mobile Application for Android
 
 ---
 
